@@ -3,7 +3,7 @@ basic python projects
 
 
 completed :
-  dice
+  dice,
   dictionary
   
 Inprogress :
