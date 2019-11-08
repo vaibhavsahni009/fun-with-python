@@ -4,10 +4,11 @@ basic python projects
 
 completed :
   dice,
-  dictionary
-  
-Inprogress :
+  dictionary,
+  hangman
+
+in progress :
   none
 
-dropped :
+on-hold :
   none
