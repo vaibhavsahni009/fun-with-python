@@ -4,6 +4,7 @@ import json
 data=json.load(open("data.json"))
 def hangman():
     word=random.choice(list(data.keys()))
+    word=word.lower()
     valid="abcdefghijklmnopqrstuvwxyz"
     guessmade=''
     turns =10
