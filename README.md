@@ -5,7 +5,8 @@ basic python projects
 completed :
   dice,
   dictionary,
-  hangman
+  hangman,
+  tic-tac-toe
 
 in progress :
   none
