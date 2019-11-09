@@ -1,11 +1,17 @@
 import random
 import json
 
-data=json.load(open("data.json"))
+data=list((json.load(open("data.json"))).keys())
 def hangman():
-    word=random.choice(list(data.keys()))
-    word=word.lower()
     valid="abcdefghijklmnopqrstuvwxyz"
+    flag=1
+    while(flag==1):
+        flag=0
+        word=random.choice(data)
+        word=word.lower()
+        for letter in word:
+            if letter not in valid:
+                flag=1
     guessmade=''
     turns =10
     while len(word)>0:
