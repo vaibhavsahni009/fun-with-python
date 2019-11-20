@@ -6,7 +6,8 @@ completed :
   dice,
   dictionary,
   hangman,
-  tic-tac-toe
+  tic-tac-toe  
+  caterpillar
 
 in progress :
   none
