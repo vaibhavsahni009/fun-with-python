@@ -6,8 +6,9 @@ completed :
   dice,
   dictionary,
   hangman,
-  tic-tac-toe  
-  caterpillar
+  tic-tac-toe,
+  caterpillar,
+  matchmaker
 
 in progress :
   none
