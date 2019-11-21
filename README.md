@@ -8,7 +8,8 @@ completed :
   hangman,
   tic-tac-toe,
   caterpillar,
-  matchmaker
+  matchmaker,
+  screenpet
 
 in progress :
   none
