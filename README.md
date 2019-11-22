@@ -9,7 +9,8 @@ completed :
   tic-tac-toe,
   caterpillar,
   matchmaker,
-  screenpet
+  screenpet,
+  productivity log
 
 in progress :
   none
