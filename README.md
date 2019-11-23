@@ -10,7 +10,8 @@ completed :
   caterpillar,
   matchmaker,
   screenpet,
-  productivity log
+  productivity log,
+  egg-catcher
 
 in progress :
   none
