@@ -11,7 +11,8 @@ completed :
   matchmaker,
   screenpet,
   productivity log,
-  egg-catcher
+  egg-catcher,
+  pong
 
 in progress :
   none
