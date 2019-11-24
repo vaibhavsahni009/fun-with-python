@@ -12,7 +12,8 @@ completed :
   screenpet,
   productivity log,
   egg-catcher,
-  pong
+  pong,
+  space invader
 
 in progress :
   none
