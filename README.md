@@ -16,7 +16,7 @@ completed :
   space invader
 
 in progress :
-  none
+  snake
 
 on-hold :
   none
