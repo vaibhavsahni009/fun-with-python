@@ -58,7 +58,6 @@ class snake(object):
 
             keys = pygame.key.get_pressed()
 
-            # for key in keys:
             if keys[pygame.K_LEFT]:
                 self.dirnx = -1
                 self.dirny = 0
@@ -149,6 +148,9 @@ def redrawWindow(surface):
     s.draw(surface)
     snack.draw(surface)
     drawGrid(width, rows, surface)
+    score = font.render(str(len(s.body) - 1),
+                        True, (255, 255, 255))
+    surface.blit(score, (0, 0))
     pygame.display.update()
 
 
@@ -179,12 +181,14 @@ def message_box(subject, content):
 
 
 def main():
-    global width, rows, s, snack
+    global width, rows, s, snack, font
     width = 500
     rows = 20
     win = pygame.display.set_mode((width, width))
+    pygame.display.set_caption('snake')
     s = snake((255, 0, 0), (10, 10))
     snack = cube(randomSnack(rows, s), color=(0, 255, 0))
+    font = pygame.font.Font('freesansbold.ttf', 30)
     flag = True
 
     clock = pygame.time.Clock()
