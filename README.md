@@ -13,10 +13,10 @@ completed :
   productivity log,
   egg-catcher,
   pong,
-  space invader
+  space invader,
+  snake
 
 in progress :
-  snake
 
 on-hold :
   none
