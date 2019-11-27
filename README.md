@@ -1,22 +1,22 @@
 # fun-with-python
 basic python projects
 
+completed:	
 
-completed :
-  dice,
-  dictionary,
-  hangman,
-  tic-tac-toe,
-  caterpillar,
-  matchmaker,
-  screenpet,
-  productivity log,
-  egg-catcher,
-  pong,
-  space invader,
-  snake
+- dice
+- dictionary
+- hangman
+- tic-tac-toe
+- caterpillar
+- matchmaker
+- screenpet
+- productivity log
+- egg-catcher
+- pong
+- space invader
+- snake
+- connect4
 
-in progress :
+in progress :	none
 
-on-hold :
-  none
+on-hold :	none
