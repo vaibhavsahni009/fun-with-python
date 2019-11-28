@@ -1,7 +1,7 @@
 # fun-with-python
 basic python projects
 
-completed:	
+completed:
 
 - dice
 - dictionary
@@ -17,6 +17,6 @@ completed:
 - snake
 - connect4
 
-in progress :	none
+in progress :	Tetris
 
 on-hold :	none
