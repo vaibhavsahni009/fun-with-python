@@ -16,7 +16,8 @@ completed:
 - space invader
 - snake
 - connect4
+- Tetris
 
-in progress :	Tetris
+in progress :	none
 
 on-hold :	none
