@@ -18,6 +18,6 @@ completed:
 - connect4
 - Tetris
 
-in progress :	none
+in progress :	chess-online
 
 on-hold :	none
