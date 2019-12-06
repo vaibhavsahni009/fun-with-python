@@ -1,6 +1,6 @@
-# chess-online
+# client-setup
 
-multiplayer chess to be played between private server network
+example of setup online game data exchange and basic template  
 
 server side in progress and recieving and sending i functional
 

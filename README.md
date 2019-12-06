@@ -17,7 +17,8 @@ completed:
 - snake
 - connect4
 - Tetris
+- online-client-setup
 
-in progress :	chess-online
+in progress :	rock-paper-scissor
 
 on-hold :	none
