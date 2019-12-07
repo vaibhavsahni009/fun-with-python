@@ -18,7 +18,8 @@ completed:
 - connect4
 - Tetris
 - online-client-setup
+- rock-paper-scissor online
 
-in progress :	rock-paper-scissor
+in progress :	none
 
 on-hold :	none
