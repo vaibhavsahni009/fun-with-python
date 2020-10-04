@@ -1,6 +1,14 @@
 # caterpillar
 
-basic caterpillar game made with turtle graphics  
+___
 
+## Goal
 
-could improve proximation and relative acceleration of caterpillar
+caterpillar game made with point system with turtle graphics.
+
+![Gameplay](./caterpillar.gif)  
+
+### Future improvements
+
+* Proximation of food and mouth
+* Relative acceleration of caterpillar
