@@ -1,5 +1,14 @@
-# basic-dictionary
+# Dictionary
 
-basic dictionary with data.json containing all key value pairs for the word
+___
 
-will add predictive results in future
+## Goal
+
+Self explanatory name for in depth understanding why not use this CLI app to search dictionary.
+
+![CLI](./dictionary.png)
+
+### Future Improvements
+
+Adding predictive results
+
