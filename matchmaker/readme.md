@@ -1,4 +1,16 @@
-# matchmaker
+# Matchmaker
 
-basic matchmaker game   
-need to replace numbers and letter with symbols
+___
+
+## Goal
+
+Matchmaker game
+
+![Gameplay](./matchmaker.gif)
+
+### Future Improvements
+
+* Add colors
+* Add images
+* Add music
+* Give choice of different grids
