@@ -1,5 +1,13 @@
-# dice
-basic dice simulator
+# Dice
 
+___
 
-will try to add graphics instead basic dice face
+## Goal
+
+CLI Dice simulator
+
+![CLI](./dice.gif)
+
+### Future Improvements
+
+Add graphics instead basic dice face in cli
