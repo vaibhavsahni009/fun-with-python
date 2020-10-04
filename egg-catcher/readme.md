@@ -1,3 +1,11 @@
 #  Egg-catcher
 
-egg catching game with progressive increase in speed....catch as many you can
+___
+
+## Goal
+
+Egg catching game with progressive increase in speed. Made with the help of tkinter module.
+
+Catch as many you can!!!
+
+![Gameplay](./egg-catcher.gif)
