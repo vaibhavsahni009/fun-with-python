@@ -5,7 +5,7 @@ from player import Player
 import pickle
 
 # private ip of server machine and port to run on network
-server = "192.168.1.6"
+server = "192.168.1.8"
 port = 5555
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
