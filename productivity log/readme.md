@@ -1,5 +1,15 @@
-# productivity log
+# Productivity Log
 
-basic log keeping application
+___
 
-could fix interface a little bit and add further functionality to show data in better way as well as better search function
+### Goal
+
+Basic log keeping application
+
+![screenshort](./PL.png)
+
+### Future Improvements:
+
+* Fix interface a little bit 
+* Add further functionality to show data in better way
+* Better search function
