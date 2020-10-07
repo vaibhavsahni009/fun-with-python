@@ -38,7 +38,7 @@ def IsWinner(b,l):
 def playerMove():
     run = True
     while run:
-        move = input("please select a position to enter the X between 1 to 9")
+        move = input("please select a position to enter the X between 1 to 9 ")
         try:
             move = int(move)
             if move > 0 and move < 10:
