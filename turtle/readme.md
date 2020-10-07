@@ -1,4 +1,14 @@
-# turtle graphics
+# Turtle graphics
 
-basic turtle programs to explore its functionality
+___
+
+## Goal
+
+Programs to explore functionality of turtle module.
+
+![robot](./robot.gif)
+
+![Kalaedoscope](./kal.gif)
+
+![turtle](./turtle.gif)
 
