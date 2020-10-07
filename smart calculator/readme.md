@@ -1,5 +1,7 @@
-# smarty
+# Smarty
 
-smart calculator , it can understand operations in words like multiply and subtract   
+___
 
-but requires a space between ever word/operation/number typed...so, maybe somewhat smart
+Smart calculator , it can understand operations in words like multiply and subtract but requires a space between every word/operation/number typed...so, maybe not that smart.
+
+![smarty](./smarty.gif)
