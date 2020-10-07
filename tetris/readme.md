@@ -1,12 +1,18 @@
 # Tetris
 
-Basic Tetris game 
+___
 
-scope of improvement
+### Goal
 
-- initailization of shapes could have been done better 
+Tetris game 
 
-- could add music 
+![gameplay](./tetris.gif)
+
+### Future Improvements
+
+- Initailization of shapes could have been done better 
+
+- Could add music 
 
 - etc
 
