@@ -30,15 +30,18 @@ enemyX = []
 enemyY = []
 enemyX_change = []
 enemyY_change = []
-num_of_enemies = 6
+num_of_enemies = 10
 
-for i in range(num_of_enemies):
+def addEnemy():
     enemyImg.append(pygame.image.load('enemy.png'))
     enemyX.append(random.randint(0, 736))
     enemyY.append(random.randint(50, 150))
     enemyX_change.append(4)
     enemyY_change.append(20)
 
+
+for i in range(num_of_enemies):
+    addEnemy()
 # Bullet
 
 # Ready - You can't see the bullet on the screen
@@ -140,7 +143,12 @@ while running:
             score_value += 1
             enemyX[i] = random.randint(0, 736)
             enemyY[i] = random.randint(50, 150)
-
+            inc=random.randint(1,3)
+            num_of_enemies+=inc
+            for i in range(inc):
+                addEnemy()
+            
+            
         enemy(enemyX[i], enemyY[i], i)
 
     #bullet movement
