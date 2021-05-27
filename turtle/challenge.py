@@ -7,14 +7,11 @@ from turtle import Turtle,Screen
 
 t=Turtle()
 
-t.forward(100)
-t.left(90)
-t.forward(100)
-t.left(90)
-t.forward(100)
-t.left(90)
-t.forward(100)
-
+for _ in range(50):
+    t.forward(10)
+    t.pu()
+    t.forward(10)
+    t.pd()
 
 
 
