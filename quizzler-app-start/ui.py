@@ -38,7 +38,7 @@ class QuizInterface:
 
     def get_next_question(self):
         if self.quiz_brain.still_has_questions():
-            print(self.quiz_brain.question_number)
+            # print(self.quiz_brain.question_number)
             self.score_label.config(text=f"Score:{self.quiz_brain.score}")
             self.canvas.itemconfigure(
                 self.question, text=self.quiz_brain.next_question())
